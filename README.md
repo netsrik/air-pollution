@@ -1,7 +1,7 @@
 # TAKE A DEEP BREATH?
 Particulate matter prediction based on meteorological open source sensor data using time series analysis.
 
-At the end of our 12-week-data-science-bootcamp stood the capstone project. A time of practice and continued learning. We four found together due to our concern for ecological topics and our interest in time series analyses. This repo holds our joint work of round about three weeks.
+At the end of our 12-week-data-science-bootcamp stood the capstone project. A time of practice and continued learning. We four found together due to our concern for ecological topics and our interest in time series analysis. This repo holds our joint work of round about three weeks.
 
 ## Topic
 Air pollution is causing millions of premature deaths worldwide. Even in Germany the particulate matter (PM) concentrations are repeatedly classified as unhealthy by the EU. In this project we evaluate geographical and seasonal impacts on PM concentrations for two German cities. Furthermore, we implement a 7-day PM forecast for 64 different locations within these cities. This forecast is based on current open source PM sensor data, weather data and forecasted weather data and can be extended across Germany.
@@ -34,7 +34,7 @@ This repo holds the following folders and information/results:
 | prophet_all_locations_mlflow_images.ipynb | PM forecast for all 64 locations tracked with MLflow for model tuning and images saved |
 | rmse_analysis.ipynb | error analysis with data downloaded from MLflow|
 | future_predictions.ipynb | PM forecast for all 64 locations and visualization of results with keppler.gl |
-| future_predictions_cv.ipynb |  |
+| future_predictions_cv.ipynb | PM forecast for all 64 locations and cross validation  |
 | future_predictions_presentation.ipynb | PM forecast for all 64 locations and generation of graphs for presentation |
 
 * [presentations](https://github.com/j-herbig/air-pollution/tree/main/presentations): Brief overview of our results given as a midterm and a final presentation for our pretended stakeholder Deutscher-Städte-und-Gemeindebund.
