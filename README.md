@@ -24,7 +24,7 @@ This repo holds the following folders and information/results:
 | download_sensor_community.ipynb | download PM training data |
 | download_sensor_community_update_data.ipynb | update training PM data until now |
 | download_weather_forecast.ipynb | download future weather data |
-| meteomatics_download.py |  |
+| meteomatics_download.py | download future weather data |
 | data_merging.ipynb | merge and preprocess weather and PM data |
 | EDA.ipynb | exploratory data analysis and data cleaning |
 | location_plot.ipynb | overview of investigated 64 locations |
