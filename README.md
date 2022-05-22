@@ -61,5 +61,8 @@ python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
+brew install proj
+pip install pyproj
+pip install keplergl == 0.2.0
 ```
 
