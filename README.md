@@ -1,6 +1,5 @@
 ![take-a-deep-breath](./images/take_a_deep_breath.jpg)
 
-# TAKE A DEEP BREATH?
 Particulate matter prediction based on meteorological open source sensor data using time series analysis.
 
 At the end of our 12-week-data-science-bootcamp stood the capstone project. A time of practice and continued learning. We four found together due to our concern for ecological topics and our interest in time series analysis. This repo holds our joint work of round about three weeks.
