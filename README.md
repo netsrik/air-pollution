@@ -1,3 +1,5 @@
+![take-a-deep-breath](./images/take_a_deep_breath.jpg)
+
 # TAKE A DEEP BREATH?
 Particulate matter prediction based on meteorological open source sensor data using time series analysis.
 
